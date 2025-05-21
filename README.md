@@ -52,22 +52,7 @@ The average cost for two is significantly higher in cities like Delhi and Mumbai
 
 Online delivery is more prevalent in metro cities and directly correlates with customer engagement (via votes and reviews).
 
-⚙️ How to Run
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/sandeep1188/Data-Analysis.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd Data-Analysis
-Launch the notebook:
-
-bash
-Copy code
-jupyter notebook Zomato_Data_Analysis_.ipynb
 🚀 Future Enhancements
 Predict restaurant ratings using ML models.
 
